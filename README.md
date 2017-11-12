@@ -1,4 +1,4 @@
-# ezreal
+# 参考资料
 
 wepon大神的github吐血推荐
 github地址：https://github.com/wepe/PPD_RiskControlCompetition
